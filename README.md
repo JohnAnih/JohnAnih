@@ -5,7 +5,7 @@ I am a Data Science and Machine Learning Engineer with over four years of indust
 
 I thrive on applying my skills across multiple IT industries, applying programming, data visualization, web development, and storytelling using data. I’m passionate about staying up to date with the latest technology and programming languages.
 
-Focused, humble, and reliable, I’m driven and motivated until the project goal and business requirement are successfully achieved. My ambition is to progress further in Data Science and become a leader in my field. I’d love to be at the forefront of delivering end-to-end machine learning solutions.
+Focused, humble, and reliable, I’m driven and motivated until the project goal and business requirement are successfully achieved. My ambition is to progress further in the field of development of data science applications and become a leader in my field. I’d love to be at the forefront of delivering end-to-end machine learning solutions.
 
 ### Connect with me:
 
