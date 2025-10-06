@@ -1,7 +1,7 @@
 
 ### Hi there, I'm John 👋 
 
-I am a Data Science and Machine Learning Engineer with over six years of industry experience within the automation, insurance, and manufacturing sectors. I have implemented, led, and developed AI/ML models across businesses, applying expertise in data science. I am an excellent problem-solver with a passion for maths and programming as well as using my technical experience to solve problems.
+I am a Data Science and Machine Learning Engineer with over eight years of industry experience within the automation, insurance, and manufacturing sectors. I have implemented, led, and developed AI/ML models across businesses, applying expertise in data science. I am an excellent problem-solver with a passion for maths and programming as well as using my technical experience to solve problems.
 
 I thrive on applying my skills across multiple IT industries, applying programming, data visualization, web development, and storytelling using data. I’m passionate about staying up to date with the latest technology and programming languages.
 
